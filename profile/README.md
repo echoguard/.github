@@ -13,7 +13,7 @@
 ## » ❓ — Contact Us
 › If you need help you can contact us on our Discord or via email.
 
-• **Discord**: [echoguardbot.com/go/discord](https://echoguardbot.com/go/discord)
+• **Discord**: [https://discord.gg/e3bzvwbdaz](https://discord.gg/e3bzvwbdaz)
 <br>
 • **E-Mail**: [contact@echoguardbot.com](mailto:contact@echoguardbot.com)
 
